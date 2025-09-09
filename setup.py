@@ -6,7 +6,7 @@ requirements = [
     'numpy',
     'matplotlib==3.5.1',
     'requests==2.25.1',
-    'pandas==1.2.4'
+    'panda'
 ]
 
 setup(
